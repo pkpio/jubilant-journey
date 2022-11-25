@@ -1,3 +1,6 @@
+![Demo1](https://s1.gifyu.com/images/demo-1f43897d867064ee1.gif)
+![Demo2](https://s1.gifyu.com/images/demo-2.gif)
+
 # Assumptions
 - Assumed the monthly deposit is paid at the end of each month
 - Assumed that interest rate is specified (as APR not APY) for the year
