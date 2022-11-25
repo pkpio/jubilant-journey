@@ -9,7 +9,7 @@ import SavingService from './services/SavingService';
 ReactDOM.render(
     <React.StrictMode>
         <App
-            debounce={new Debounce(200)}
+            debounce={new Debounce(300)}
             savingService={new SavingService()}
         />
     </React.StrictMode>,
