@@ -9,40 +9,29 @@ type ContextInputProps = {
     endContextIcon: IconType,
     defaultValue: number,
     minValue?: number,
-    value: number,
     step?: number,
     isInvalid: boolean,
     onChange: (valueAsString: string, valueAsNumber: number) => void,
 }
 
-const ContextInputNumber = ({ 
-    startContextText, 
-    startContextIcon, 
-    endContextText, 
-    endContextIcon, 
-    defaultValue, 
-    minValue = 0,
-    onChange,
-    isInvalid,
-    step = 0.2 
-}: ContextInputProps) => {
+const ContextInputNumber = (props: ContextInputProps) => {
     return (
         <InputGroup>
             <InputLeftAddon 
                 children={
                     <>
-                        <Icon as={startContextIcon} />
-                        <Text>{startContextText}</Text>
+                        <Icon as={props.startContextIcon} />
+                        <Text>{props.startContextText}</Text>
                     </>
                 }
             />
             <NumberInput
-                defaultValue={defaultValue}
-                min={minValue}
+                defaultValue={props.defaultValue}
+                min={props.minValue}
                 clampValueOnBlur={false}
-                step={step}
-                isInvalid={isInvalid}
-                onChange={onChange}
+                step={props.step}
+                isInvalid={props.isInvalid}
+                onChange={props.onChange}
             >
                 <NumberInputField />
                 <NumberInputStepper>
@@ -53,8 +42,8 @@ const ContextInputNumber = ({
             <InputRightAddon 
                 children={
                     <>
-                        <Icon as={endContextIcon} />
-                        <Text paddingLeft={2}>{endContextText}</Text> 
+                        <Icon as={props.endContextIcon} />
+                        <Text paddingLeft={2}>{props.endContextText}</Text> 
                     </>
                 }
             />

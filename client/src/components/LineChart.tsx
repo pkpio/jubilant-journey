@@ -1,8 +1,15 @@
 import React from 'react'
-import { Chart, registerables } from 'chart.js'
+import { Chart, CategoryScale, LinearScale, PointElement, Title, LineElement, Tooltip } from 'chart.js'
 import { Line } from 'react-chartjs-2'
 
-Chart.register(...registerables)
+Chart.register(
+    LinearScale,
+    CategoryScale,
+    PointElement,
+    Title,
+    LineElement,
+    Tooltip,
+);
 
 type Props = {
     xAxisData: number[]

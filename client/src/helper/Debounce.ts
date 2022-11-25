@@ -36,7 +36,6 @@ type CallbackFn = () => void;
         if (diff > this.threshold) {
             // Execute Immediately if time elapsed since last schedule is higher than threshold
             this.lastTrigger = now;
-            console.log('Running straight away. Diff is: ' + diff)
             callback();
         } else {
             // Create future event
