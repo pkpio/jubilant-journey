@@ -5,6 +5,7 @@ import DefaultLayout from './components/layouts/Default'
 import LineChart from './components/LineChart'
 import { FaDollarSign, FaPercent, FaChartLine, FaPiggyBank, FaFunnelDollar } from 'react-icons/fa'
 import ContextInputNumber from './components/ContextNumberInput'
+import InclusiveDebounce from './helper/Debounce'
 
 // Note: This is just for example purposes
 // should be replaced with real data from the server
@@ -12,6 +13,7 @@ const tempData = {
     xAxis: [0],
     yAxis: [0],
 }
+const debounce = new InclusiveDebounce(200);
 
 function App() {
     const [dataLoaded, setIsDataLoaded] = useState(false);
@@ -61,10 +63,13 @@ function App() {
             handleParamsChange(intialSavings, valueAsNumber, apr);
         }
     }
-    
 
     const handleParamsChange = (newIntialSavings: number, newMonthlyTopup: number, newApr: number) => {
         setIsDataLoaded(false);
+        debounce.schedule(() => fetchSavingsData(newIntialSavings, newMonthlyTopup, newApr));
+    }
+    
+    const fetchSavingsData = (newIntialSavings: number, newMonthlyTopup: number, newApr: number) => {
         fetch("http://localhost:3001/savings?initialDeposit=" + newIntialSavings + "&monthlyTopup=" + newMonthlyTopup + "&apr=" + newApr)
             .then(res => res.json())
             .then(

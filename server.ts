@@ -39,8 +39,8 @@ app.get('/savings', async (req, res) => {
         curPrinciple = curPrinciple + curPrinciple * (monthlyRate / 100) + monthlyTopup;
     }
 
-    // To simulate real backend call delays
-    await delay(200);
+    // To simulate real backend call delays on bad networks
+    await delay(1500);
 
     res.send(JSON.stringify(monthlyReturns, null, 4));
 })
