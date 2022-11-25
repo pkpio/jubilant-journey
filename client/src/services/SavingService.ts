@@ -5,12 +5,12 @@ export type YearlySavingsData = {
     savings: number[],
 }
 
-const baseUrl = "http://localhost:3001";
+const baseUrl = "http://localhost:3001/v1";
 
 export default class SavingService {
 
     public getProjectedYearlySavings(projectInputs: SavingsProjectParams): Promise<YearlySavingsData> {
-        return fetch(`${baseUrl}/savings?initialDeposit=${projectInputs.initialDeposit}&monthlyTopup=${projectInputs.monthlyTopup}&apr=${projectInputs.apr}`)
+        return fetch(`${baseUrl}/projection/savings?initialDeposit=${projectInputs.initialDeposit}&monthlyTopup=${projectInputs.monthlyTopup}&apr=${projectInputs.apr}`)
             .then(res => res.json())
             .then(result => {
                 const years: number[] = [];

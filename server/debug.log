@@ -1,0 +1,309 @@
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [undefined]: undefined"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [undefined]: undefined"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [undefined]: undefined"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [undefined]: undefined"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: chainId must be an integer number, address must be a string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: chainId must be an integer number, address must be a string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: monthlyTopup must be an integer number, apr must be an integer number"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: monthlyTopup must be a number conforming to the specified constraints, apr must be a number conforming to the specified constraints"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: monthlyTopup must be a number conforming to the specified constraints, apr must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a number conforming to the specified constraints, monthlyTopup must be a number conforming to the specified constraints, apr must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: monthlyTopup must be a number conforming to the specified constraints, apr must be a number conforming to the specified constraints"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a string, monthlyTopup must be a string, apr must be a string"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a string, monthlyTopup must be a string, apr must be a string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a string, monthlyTopup must be a string, apr must be a string"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a string, monthlyTopup must be a string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a string, monthlyTopup must be a string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: initialDeposit must be a number conforming to the specified constraints"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: apr must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: apr must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: apr must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: apr must be a number conforming to the specified constraints"}
+{"level":"error","message":"Error while processing [GET]: /v1/projection/savings"}
+{"level":"error","message":"[body]: [object Object]"}
+{"level":"error","message":"[error]: Error: apr must be a number conforming to the specified constraints"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}

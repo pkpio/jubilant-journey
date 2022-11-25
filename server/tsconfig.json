@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "types": ["node"],
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "target": "es6",
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "dist",
+        "baseUrl": ".",
+        "resolveJsonModule": true,
+        "experimentalDecorators": true,
+        "paths": {
+            "*": [
+                "./server/node_modules/*",
+                "./server/src/types/*",
+                "./server/src/*"
+            ]
+        }
+    },
+    "include": [
+        "./src/**/*.ts",
+    ]
+}
