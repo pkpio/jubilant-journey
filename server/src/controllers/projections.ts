@@ -4,7 +4,7 @@ import { ValidationMiddleware } from "../middleware/validation.middleware";
 import { IsNumber } from "class-validator";
 import { Type } from "class-transformer";
 import { API_BASE_URL } from "./config";
-import { SavingsProjector } from "../helpers/SavingsProjector";
+import { SavingsProjector } from "../helpers/savings-projector";
 
 export class ProjectionController implements Controller {
     public path = `${API_BASE_URL}/projection`;

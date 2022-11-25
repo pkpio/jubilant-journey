@@ -43,7 +43,7 @@ export class App {
         this.expressApp.use(morgan("combined"));
 
         // Setup artificial delay middleware
-        // this.expressApp.use(this.delayMiddleware.addFixedDelay());
+        this.expressApp.use(this.delayMiddleware.addFixedDelay());
 
         // Primary app routes.
         this.controllers.forEach((controller) => {

@@ -1,5 +1,5 @@
 import { expect, describe, beforeEach, it } from "@jest/globals";
-import { SavingsProjector } from "../../src/helpers/SavingsProjector";
+import { SavingsProjector } from "../../src/helpers/savings-projector";
 
 describe("SavingsProjector", () => {
     const initialDeposit = 100;
